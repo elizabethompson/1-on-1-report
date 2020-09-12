@@ -6,7 +6,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "moment": "^2.25.3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "query-string": "^6.12.1"
   },
   "devDependencies": {
